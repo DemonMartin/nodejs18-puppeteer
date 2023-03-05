@@ -19,8 +19,8 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 #
-#  Modyfied by Dominika Jadowska to add Pupeteer packages
-#
+#  Modyfied by Dominika Jadowska to add Pupeteer packages 
+#  Updated by Demon Martin
 #
 #
 
